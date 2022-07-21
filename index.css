@@ -1,0 +1,178 @@
+body {
+    background-color: #7289da;
+}
+img {
+    width: 100px;
+    height: auto;
+    margin-left: 70px;
+    margin-right: 50px;
+    margin-top: 5px;
+}
+.hagyazı {
+    text-align:center;
+    color: rgb(43, 214, 80);
+    animation-name: example;
+    animation-duration: 2s;
+}
+.Ana-Yazı {
+    background-color: rgb(196, 0, 39);
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    animation: infinite alternate 1s;
+}
+@keyframes example {
+    0%   {color: rgb(255, 0, 0);}
+    25%  {color: rgb(255, 255, 0);}
+    50%  {color: rgb(4, 0, 255);}
+    100% {color: rgb(0, 187, 0);}
+      
+  }
+h2 {
+    margin-left: 80px;
+    margin-right: 60px;
+    font-size: 19px;
+}
+h3 {
+    margin-left: 55px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+button {
+    margin-left: 80px;
+    margin-right: 50px;
+    margin-top: 5px;
+    font-size: 19px;
+}
+div {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 5px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.lead-dust {
+    background-color: #d46306;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: center;
+}
+.iron-dust {
+    background-color: #d46306;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: center;
+}
+.gold-dust {
+    background-color: #d46306;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: center;
+}
+.copper-dust {
+    background-color: #d46306;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: center;
+}
+.magnezyum {
+    background-color: #d46306;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: center;
+}
+.silver {
+    background-color: #d46306;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: center;
+}
+.zinc {
+    background-color: #d46306;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: center;
+}
+.aliminüm {
+    background-color: #d46306;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: center;
+}
+.tin {
+    background-color: #d46306;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: center;
+}
+/* Language: css */
+.lead-dust:hover {
+    background-color: #001aff6c;  
+}
+.iron-dust:hover {
+    background-color: #353535;
+}
+.gold-dust:hover {
+    background-color: #e9e500;  
+}
+.copper-dust:hover {
+    background-color: #d46306;
+}
+.magnezyum:hover {
+    background-color: #d46306;
+}
+.silver:hover {
+    background-color: #d46306;
+}
+.zinc:hover {
+    background-color: #d46306;
+}
+.aliminüm:hover {
+    background-color: #d46306;
+}
+.tin:hover {
+    background-color: #d46306;
+}
